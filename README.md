@@ -1,1 +1,1 @@
-# HTML_Sass_JavaScript_Responsive_Website
+# HTML Sass & JavaScript Responsive Website
